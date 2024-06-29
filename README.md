@@ -1,4 +1,4 @@
-# tampering_http
+# Tampering HTTP
 
 `tampering_http` is a tool to process URLs from a file and apply tampering operations on them. This README.md provides instructions on how to use the tool and details about its functionality.
 
