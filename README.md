@@ -1,6 +1,10 @@
 # Tampering HTTP
 
-`tampering_http` is a tool to process URLs from a file and apply tampering operations on them. This README.md provides instructions on how to use the tool and details about its functionality.
+`HTTP Verb Tampering` it is a way to test the web application's response to different HTTP methods.
+
+This tool is still in its early stages of development, but it helps check the HTTP Verbs available for a given endpoint.
+
+You can import results from tools like Feroxbuster, Goburster or any list of endpoints you have
 
 ## Features
 
